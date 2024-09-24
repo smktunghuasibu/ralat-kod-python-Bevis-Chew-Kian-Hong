@@ -3,7 +3,7 @@
 
 def calculation(a, b):    
     division = a / b
-    return round(divisionn, 2)
+    return round(division, 2)
 
 def get_input():
     x = int(input("Masukkan nombor integer pertama:"))
